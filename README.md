@@ -1,5 +1,8 @@
 ### Hi there 👋
+Meu nome é Aline Capoani da Silva e sou iniciante nesta vida de Dev Full Stack 😄
 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-capoani-da-silva-126087112/)](https://www.linkedin.com/in/aline-capoani-da-silva-126087112/)
 <!--
 **Aline-ACS/Aline-ACS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
