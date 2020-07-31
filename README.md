@@ -1,5 +1,5 @@
 ### Olá!! 👋
-Meu nome é Aline Capoani da Silva e sou iniciante nesta vida de Dev Full Stack 😄
+Meu nome é Aline Capoani da Silva e sou iniciante nesta vida de Desenvolvedora 😄
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aline-capoani-da-silva-126087112/)](https://www.linkedin.com/in/aline-capoani-da-silva-126087112/)
