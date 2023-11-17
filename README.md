@@ -1,7 +1,7 @@
 ## Olá!! 👋
 Meu nome é Aline Capoani da Silva e sou desenvolvedora frontend 😊
 
-💻 Atualmente trabalho na empresa <a href="https://www.3035tech.com" target="_blank"> 3035Tech</a> 
+💻 Atualmente trabalho na empresa <a href="https://www.procergs.rs.gov.br/inicial" target="_blank"> PROCERGS</a> 
 
 <br/>
 <div>
